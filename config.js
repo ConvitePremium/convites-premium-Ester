@@ -30,7 +30,7 @@ window.CONFIG = {
   //         Ex.: 55 (Brasil) + 31 (DDD) + 985657116 -> "5531985657116"
   // mensagem: texto que já vem pré-preenchido quando a pessoa abre o WhatsApp.
   whatsapp: {
-    numero: "5515991686144",
+    numero: "5518997523326",
     mensagem: "Olá! Confirmo minha presença no aniversário da Ester."
   },
 
@@ -89,9 +89,9 @@ window.CONFIG = {
   // mostrarTexto: true mostra “Voltar”; false deixa apenas a área clicável.
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
-    presentes: { mostrarTexto:false, posicao: {"left":24.2,"top":83.6,"width":55.0,"height":7.8} },
-    dresscode: { mostrarTexto:true, posicao: {"left":26.805437549920125,"top":86.88550214891683,"width":46.581485248602235,"height":5.424627114446271} },
-    manual: { mostrarTexto:true, posicao: {"left":25.783057732627793,"top":85.2744510457582,"width":47.80830358925719,"height":5.309555171188598} }
+    presentes: { mostrarTexto:false, posicao: {"left":26.0402587110623,"top":85.90149593197003,"width":47.843450479233226,"height":7.684926959303546} },
+    dresscode: { mostrarTexto:false, posicao: {"left":27.009907273362618,"top":90.56790090777503,"width":46.581485248602235,"height":6.00000109743878} },
+    manual: { mostrarTexto:false, posicao: {"left":25.5785880091853,"top":88.4965400828101,"width":47.39934854233227,"height":6.92059529995943} }
   },
 
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
@@ -100,11 +100,11 @@ window.CONFIG = {
   //   left/top: canto superior esquerdo do botão
   //   width/height: tamanho do botão
     hotspots: {
-        confirm: { left:19.111031037141306, top:63.8032059022128, width:15.963035699920129, height:8.57238650880756 },
-        map: { left:42.3313764835857, top:64.03332543810177, width:15.611963461541478, height:8.522989476077747 },
-        gift: { left:64.6203873670928, top:63.907444274051855, width:16.091044953075077, height:8.643484137471408 },
-        dress: { left:30.670926517571885, top:77.02597723193821, width:15.682105506190094, height:8.298251846116688 },
-        manual: { left:53.98780574768387, top:76.56567628964217, width:16.29551467651757, height:8.528402317264716 }
+        confirm: { left:13.999209950879326, top:70.47754761672999, width:15.963035699920129, height:8.57238650880756 },
+        map: { left:41.92242143666078, top:70.47751668147093, width:15.611963461541478, height:8.522989476077747 },
+        gift: { left:69.93667817679727, top:70.46670416836236, width:16.091044953075077, height:8.643484137471408 },
+        dress: { left:27.808319189297126, top:84.16061988875146, width:15.682105506190094, height:8.298251846116688 },
+        manual: { left:55.82804885870624, top:83.81539198715187, width:16.29551467651757, height:8.528402317264716 }
   },
 
   // ----- CONTAGEM REGRESSIVA ---------------------------------------------
